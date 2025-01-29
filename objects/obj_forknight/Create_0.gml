@@ -8,3 +8,7 @@ sprs.turn = spr_forknight_turn
 
 do_turn = true
 
+with instance_create(x,y,obj_hurtbox)
+{
+	parent = other.id
+}

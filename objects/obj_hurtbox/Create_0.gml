@@ -1,0 +1,2 @@
+parent = noone
+stun = false

@@ -143,6 +143,7 @@
     {"id":{"name":"sfx_break","path":"sounds/sfx_break/sfx_break.yy",},},
     {"id":{"name":"sfx_breakdance","path":"sounds/sfx_breakdance/sfx_breakdance.yy",},},
     {"id":{"name":"sfx_bumpwall","path":"sounds/sfx_bumpwall/sfx_bumpwall.yy",},},
+    {"id":{"name":"sfx_collect","path":"sounds/sfx_collect/sfx_collect.yy",},},
     {"id":{"name":"sfx_dashpad","path":"sounds/sfx_dashpad/sfx_dashpad.yy",},},
     {"id":{"name":"sfx_dive","path":"sounds/sfx_dive/sfx_dive.yy",},},
     {"id":{"name":"sfx_door","path":"sounds/sfx_door/sfx_door.yy",},},

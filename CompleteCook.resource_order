@@ -107,6 +107,7 @@
     {"name":"sfx_break","order":25,"path":"sounds/sfx_break/sfx_break.yy",},
     {"name":"sfx_breakdance","order":9,"path":"sounds/sfx_breakdance/sfx_breakdance.yy",},
     {"name":"sfx_bumpwall","order":22,"path":"sounds/sfx_bumpwall/sfx_bumpwall.yy",},
+    {"name":"sfx_collect","order":38,"path":"sounds/sfx_collect/sfx_collect.yy",},
     {"name":"sfx_dashpad","order":10,"path":"sounds/sfx_dashpad/sfx_dashpad.yy",},
     {"name":"sfx_dive","order":24,"path":"sounds/sfx_dive/sfx_dive.yy",},
     {"name":"sfx_escaperumble","order":34,"path":"sounds/sfx_escaperumble/sfx_escaperumble.yy",},
